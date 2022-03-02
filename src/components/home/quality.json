@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_qualities",
+  "info": {
+    "displayName": "quality",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

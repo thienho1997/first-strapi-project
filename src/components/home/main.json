@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_mains",
+  "info": {
+    "displayName": "main",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "stage": {
+      "type": "string"
+    },
+    "title": {
+      "type": "text"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_ok_default_seos",
+  "info": {
+    "displayName": "defaultSeo",
+    "icon": "bowling-ball",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string",
+      "required": true
+    },
+    "metaDescription": {
+      "type": "text"
+    }
+  }
+}
